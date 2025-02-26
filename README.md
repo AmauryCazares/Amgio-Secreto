@@ -6,8 +6,10 @@ let amigos = []; //Se crea para la lista de amigos
 
 // aqui se agragaran los amigos de la lista, los cuales se almacenaran en la cadena creada previamente
 function agregarAmigo () {
-    let ingresaAmigo = document.getElementById('amigo').value; //
-       if (ingresaAmigo === ''){ // si no se ingresa ningun nombre, se solicita que se agrege alguno
+    let ingresaAmigo = document.getElementById('amigo').value; 
+    
+    // si no se ingresa ningun nombre, se solicita que se agrege alguno
+       if (ingresaAmigo === ''){ 
         alert ('Insertar nombre.');
         return;
        } 
