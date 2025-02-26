@@ -1,6 +1,7 @@
 # Amgio-Secreto
 
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
+
 let amigos = []; //Se crea para la lista de amigos
 
 // aqui se agragaran los amigos de la lista, los cuales se almacenaran en la cadena creada previamente
